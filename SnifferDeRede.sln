@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnifferDeRede", "SnifferDeRede\SnifferDeRede.csproj", "{A520BACE-E557-4E78-A5CF-9D40F1230FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A520BACE-E557-4E78-A5CF-9D40F1230FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A520BACE-E557-4E78-A5CF-9D40F1230FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A520BACE-E557-4E78-A5CF-9D40F1230FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A520BACE-E557-4E78-A5CF-9D40F1230FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB201844-0174-40A9-98DF-1B3EA45C56BD}
+	EndGlobalSection
+EndGlobal
